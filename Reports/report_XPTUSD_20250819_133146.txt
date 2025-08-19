@@ -1,0 +1,35 @@
+=== TRADE ANALYZER REPORT ===
+
+Date: 2025.08.19 13:31
+Instrument: XPTUSD
+Timeframe: DAILY
+Description: Bullish Breakout Trap Close to Triggering
+
+--- Dale Woods Checklist ---
+- Trend direction clear?: ✅
+- Clean structure (no chop)?: ✅
+- Key levels respected?: ✅
+- Price action pattern valid?: ✅
+- No indicators needed (raw price)?: ✅
+
+--- Nial Fuller Checklist ---
+- Trend bias aligned?: ✅
+- Support/resistance tested?: ✅
+- Price action signal obvious?: ✅
+- Risk/reward favorable?: ✅
+
+--- Fundamental Analysis ---
+- Macro trend supportive?: ✅
+- Upcoming news risk?: ❌
+- Correlation check ok?: ✅
+
+--- Institutional Analysis ---
+- Liquidity zones mapped?: ✅
+- Stop hunt risk?: ✅
+- Orderflow bias clear?: ✅
+
+=== TRADE PLAN SUMMARY ===
+Bias: Bullish (breakout trap setup)
+Entry: Wait for confirmation at support/resistance
+Stop Loss: Just beyond invalidation zone
+Take Profit: At next liquidity pool

@@ -1,0 +1,6 @@
+TRADE ANALYZER REPORT
+Signal Input: 
+Symbol: EURJPY
+Timeframe: D1
+
+Dale Woods Checklist:
